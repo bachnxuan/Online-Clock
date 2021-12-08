@@ -1,39 +1,3 @@
-# import turtle 
-
-# t = turtle.Turtle()
-
-# #t.circle(120)
-# t.pencolor('orange')
-# t.pensize(10)
-# t.right(144)
-# t.forward(120)
-# t.right(144)
-# t.forward(120)
-# t.right(144)
-# t.forward(120)
-# t.right(144)
-# t.forward(120)
-# t.right(144)
-# t.forward(120)
-
-# turtle.mainloop()
-
-# from datetime import datetime
-# from time import sleep as wait
-# import os
-# while True:
-#     now = datetime.now()
-
-#     full_clock = now.strftime("%H:%M:%S")
-#     day = now.strftime("%Z %z")
-#     print(f"{day}")
-#     print(now)
-#     wait(1)
-
-#     os.system('cls')
-
-                                   
-
 import urllib.request
 import json
 from geopy.geocoders import Nominatim
