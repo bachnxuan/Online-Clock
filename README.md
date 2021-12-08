@@ -1,5 +1,5 @@
 # Online Clock
-The Online Clock
-It find time zone by ip
-and after 0.1 second
+The Online Clock \n
+It find time zone by ip \n
+and after 0.1 second \n
 is update time. 
