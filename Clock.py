@@ -20,10 +20,7 @@ source_date = dt.datetime.now()
 currentTimeZone = pytz.timezone(tzr)
 currentDateWithTimeZone = currentTimeZone.localize(source_date)
 import os
-connect = os.system('ping google.com')
 while True:
-    if connect == 1:
-        break
     print("-----WELCOME TO CLIENT ONLINE CLOCK-----")
     print(f"Country : {lad}")
     print(f'Time Zone Is Set To : {tzr}')
