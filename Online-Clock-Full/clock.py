@@ -1,3 +1,0 @@
-import func
-
-func.olClock()
