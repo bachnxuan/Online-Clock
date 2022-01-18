@@ -1,5 +1,3 @@
-from http import client
-from urllib.error import URLError
 import urllib.request
 import json
 from geopy.geocoders import Nominatim
