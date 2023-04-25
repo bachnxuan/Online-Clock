@@ -1,3 +1,5 @@
 # Online Clock
-This is online clock made by python
-> :warning: **If you are using python 3.8**: You need visual studio 2017> to build h3
+
+This is an online clock created using Python.
+
+":warning: Note for Python 3.8 users: You'll need Visual Studio 2017 or higher to build h3."
